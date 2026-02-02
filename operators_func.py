@@ -59,7 +59,7 @@ def triangle_area(num_1,num_2):
 
 # This function returns the area of ​​a square
 def square_area(number):
-    return number * 2
+    return number ** 2
 
 
 # This function returns the area of ​​a rectangle
