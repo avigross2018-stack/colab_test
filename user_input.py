@@ -11,4 +11,3 @@ def user_input():
             pass
         print('You can choose only number')
 
-print(user_input())
