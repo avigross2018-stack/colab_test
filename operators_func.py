@@ -39,3 +39,11 @@ def root(a):
     :param a: int number
     '''
     return a ** 0.5
+
+
+def absolute_value(number):
+    if number < 0:
+        return - number
+    else:
+        return number
+    
